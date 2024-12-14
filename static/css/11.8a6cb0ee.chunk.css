@@ -1,0 +1,2 @@
+.add-liquidity{display:grid;grid-column-gap:2rem;grid-row-gap:1rem;grid-template-columns:1fr;grid-template-rows:-webkit-max-content;grid-template-rows:max-content;grid-auto-flow:row;border-top:1px solid var(--border1)}.add-liquidity[data-wide=true]{grid-template-columns:1fr 1fr}.add-liquidity__bottom{opacity:1;pointer-events:auto}.add-liquidity__bottom[disabled]{opacity:.2;pointer-events:none}
+/*# sourceMappingURL=11.8a6cb0ee.chunk.css.map */
